@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h1>Nifty Website</h1>
+
+<p>Opening blurb!</p>
+
+<div class="center-text">
+  <p><a href="https://www.linkedin.com/">LinkedIn</a> | 
+  <a href="https://www.github.com/">GitHub</a> | 
+  <a href="https://twitter.com/TechnicallyRon/status/880379075235336192/photo/1">Resumé</a></p>
+</div>
+
+<div class='round-img'>
+  <img src={{ url_for('static', filename="imgs/chemistry_snek.jpg")}} width="250px">
+  </a>
+</div>
+
+<p>Extended blurb!</p>
+
+{% endblock %}

@@ -1,0 +1,70 @@
+/*colors from http://www.colourlovers.com/palette/92095/Giant_Goldfish
+#E0E4CC greenish-cream
+#1d6991 dark teal
+#69D2E7 medium teal
+#A7DBD8 light teal
+#F38630 orange
+#FA6900 redder orange
+*/
+
+body {
+	/*this is from bettermotherfuckingwebsite*/
+	margin:40px auto;
+	max-width:650px;
+	line-height:1.6;
+	font-size:18px;
+	padding:0 10px;
+	color:#444;
+	/*this is custom*/
+	background-color: #E0E4CC;
+	font-family: Helvetica, sans-serif;
+}
+
+a:link {
+	color: #1d6991;
+}
+a:visited {
+	/*gray-ish teal obtained by averaging dark teal and medium teal*/
+	color: #7887af;
+}
+
+h1, h2, h3, h4 {
+	font-family: Courier,serif;
+	color:#1d6991;
+	/*from bettermotherfuckingwebsite*/
+	line-height: 1.2;
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+iframe, object, embed {
+        max-width: 100%;
+}
+
+.round-img img {
+	border-radius: 50%
+}
+
+.center-text {
+	text-align: center
+}
+
+.navlinks {
+	/*Match body*/
+	margin:40px auto;
+	max-width:650px;
+	padding:0 10px;
+	text-align: center;
+	font-family: Courier,serif;
+}
+.navlinks a {
+	text-decoration: none;
+	color:#FA6900;
+}
