@@ -1,10 +1,5 @@
-/*colors from http://www.colourlovers.com/palette/92095/Giant_Goldfish
-#E0E4CC greenish-cream
-#1d6991 dark teal
-#69D2E7 medium teal
-#A7DBD8 light teal
-#F38630 orange
-#FA6900 redder orange
+/*colors from http://www.colourlovers.com/palette/148712/Gamebookers
+Green from the google color picker
 */
 
 body {
@@ -14,9 +9,9 @@ body {
 	line-height:1.6;
 	font-size:18px;
 	padding:0 10px;
-	color:#444;
+	color:#424242;
 	/*this is custom*/
-	background-color: #E0E4CC;
+	background-color: #E9E9E9;
 	font-family: Helvetica, sans-serif;
 }
 
@@ -24,13 +19,12 @@ a:link {
 	color: #1d6991;
 }
 a:visited {
-	/*gray-ish teal obtained by averaging dark teal and medium teal*/
-	color: #7887af;
+	color: #1d6991;
 }
 
 h1, h2, h3, h4 {
 	font-family: Courier,serif;
-	color:#1d6991;
+	color:#8fb743;
 	/*from bettermotherfuckingwebsite*/
 	line-height: 1.2;
 }
@@ -66,5 +60,5 @@ iframe, object, embed {
 }
 .navlinks a {
 	text-decoration: none;
-	color:#FA6900;
+	color:#FF9900;
 }
