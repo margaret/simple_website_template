@@ -3,6 +3,8 @@ simple website template
 
 An overengineered flask template that ultimately just generates a static website. Meant to be used with [GitHub pages](https://pages.github.com/).
 
+I can't claim this is the best way to make your GitHub pages, but it is _a_ way to make GitHub pages.
+
 ## Development
 
 0. Install requirements
