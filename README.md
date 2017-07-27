@@ -101,3 +101,11 @@ Tbh I can't reven remember anymore, but I think I cribbed some of this off of an
 ## This seems a bit overengineered.
 
 Yeah, at one point there was a blog component to this site and the vague idea of actually having a live site. This could be extended to do something like that, but yes, this is just a build system for a collection of html pages. You could totally also just manually write out the three pages or whatever `¯\_(ツ)_/¯`
+
+## What's it look like?
+
+![index](static/imgs/index_screenshot.png)
+
+![projects](static/imgs/projects_screenshot.png)
+
+![links](static/imgs/links_screenshot.png)
