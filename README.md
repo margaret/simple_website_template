@@ -98,7 +98,7 @@ There's a confusing bit at the end where they give you conflicting info about de
 
 ## Is this original?
 
-Tbh I can't reven remember anymore, but I think I cribbed some of this off of an ancient version of (Ronald's)[https://github.com/rskwan/]'s personal website? It all seems like standard usage of the Flask ecosystem though.
+Tbh I can't reven remember anymore, but I think I cribbed some of this off of an ancient version of [Ronald's](https://github.com/rskwan/)'s personal website? It all seems like standard usage of the Flask ecosystem though.
 
 ## This seems a bit overengineered.
 
